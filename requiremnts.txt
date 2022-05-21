@@ -1,0 +1,9 @@
+uvicorn==0.17.6
+tensorflow==2.8.0
+joblib==1.0.1
+fastapi==0.75.1
+numpy>=1.9.2
+pandas==0.19
+librosa==0.9.1
+ffmpeg==1.4	
+ffmpy==0.3.0
